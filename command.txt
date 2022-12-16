@@ -1,0 +1,11 @@
+LOAD /Users/ieunseo/Desktop/coding/DS_project_3/graph_L.txt
+PRINT
+BFS 3
+LOAD /Users/ieunseo/Desktop/coding/DS_project_3/graph_M.txt
+DFS 2
+DFS_R 5
+KRUSKAL
+DIJKSTRA 5
+BELLMANFORD 0 3
+FLOYD
+EXIT
